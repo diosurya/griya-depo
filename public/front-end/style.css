@@ -1,0 +1,337 @@
+.login-griya-depo {
+  width: 1280px;
+  height: 832px;
+  background-color: #ffffff;
+}
+
+.login-griya-depo .frame {
+  display: flex;
+  width: 1280px;
+  height: 832px;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+}
+
+.login-griya-depo .div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  flex-grow: 1;
+  background-color: var(--primary-200);
+}
+
+.login-griya-depo .text-wrapper {
+  position: relative;
+  width: fit-content;
+  font-family: "Poppins", Helvetica;
+  font-weight: 700;
+  color: var(--primary-900);
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.login-griya-depo .group {
+  position: relative;
+  width: 491.58px;
+  height: 465.5px;
+}
+
+.login-griya-depo .frame-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 633px;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  padding: 20px;
+  position: relative;
+  align-self: stretch;
+  background-color: var(--neutral-500);
+}
+
+.login-griya-depo .frame-2 {
+  display: flex;
+  flex-direction: column;
+  width: 455px;
+  height: 500px;
+  align-items: flex-start;
+  gap: 20px;
+  padding: 20px 30px;
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 5px;
+}
+
+.login-griya-depo .frame-3 {
+  display: flex;
+  flex-direction: column;
+  height: 135px;
+  align-items: flex-start;
+  gap: 10px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+}
+
+.login-griya-depo .logo-griya-depo {
+  position: relative;
+  width: 118px;
+  height: 52px;
+  object-fit: cover;
+}
+
+.login-griya-depo .frame-4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 4px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.login-griya-depo .text-wrapper-2 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 700;
+  color: var(--brandgray-900);
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 32px;
+  white-space: nowrap;
+}
+
+.login-griya-depo .p {
+  position: relative;
+  width: fit-content;
+  font-family: "Nunito Sans", Helvetica;
+  font-weight: 400;
+  color: var(--brandgray-500);
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.login-griya-depo .frame-5 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 20px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.login-griya-depo .frame-6 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 12px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.login-griya-depo .div-wrapper {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 10px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.login-griya-depo .text-wrapper-3 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 700;
+  color: var(--neutral-950);
+  font-size: 12px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.login-griya-depo .form-input {
+  height: 42px;
+  padding: 10px 20px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  background-color: #ffffff;
+  border-radius: 5px;
+  border: 1px solid;
+  border-color: var(--neutral-100);
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--neutral-300);
+  font-size: 12px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.login-griya-depo .frame-7 {
+  display: flex;
+  flex-direction: column;
+  height: 112px;
+  align-items: flex-start;
+  gap: 10px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+}
+
+.login-griya-depo .frame-8 {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.login-griya-depo .form-input-2 {
+  display: flex;
+  height: 42px;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 20px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  background-color: #ffffff;
+  border-radius: 5px;
+  border: 1px solid;
+  border-color: var(--neutral-100);
+}
+
+.login-griya-depo .input-text {
+  position: relative;
+  width: fit-content;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--neutral-950);
+  font-size: 12px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.login-griya-depo .eye-off-wrapper {
+  display: inline-flex;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.login-griya-depo .eye-off {
+  position: relative;
+  width: 20px;
+  height: 20px;
+}
+
+.login-griya-depo .frame-9 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.login-griya-depo .frame-10 {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.login-griya-depo .input {
+  position: relative;
+  width: 16px;
+  height: 16px;
+}
+
+.login-griya-depo .frame-11 {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.login-griya-depo .text-wrapper-4 {
+  position: relative;
+  width: 117px;
+  margin-top: -1px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: var(--neutral-950);
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.login-griya-depo .text-wrapper-5 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #0339fa;
+  font-size: 12px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.login-griya-depo .button {
+  display: flex;
+  height: 42px;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 10px 20px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  background-color: #f76d11;
+  border-radius: 5px;
+  all: unset;
+  box-sizing: border-box;
+}
+
+.login-griya-depo .button-2 {
+  position: relative;
+  width: fit-content;
+  margin-top: -0.5px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: normal;
+  all: unset;
+  box-sizing: border-box;
+}

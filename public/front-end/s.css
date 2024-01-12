@@ -1,0 +1,83 @@
+.frame-3 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.text-wrapper-3 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: var(--headline-subheadline-font-family);
+    font-weight: var(--headline-subheadline-font-weight);
+    color: var(--primary-500);
+    font-size: 18px;
+    letter-spacing: var(--headline-subheadline-letter-spacing);
+    line-height: var(--headline-subheadline-line-height);
+    white-space: nowrap;
+    font-style: var(--headline-subheadline-font-style);
+}
+
+.text-wrapper-4 {
+    position: relative;
+    width: fit-content;
+    font-family: var(--title-textfield-textfield-font-family);
+    font-weight: var(--title-textfield-textfield-font-weight);
+    color: var(--primary-500);
+    font-size: 14px;
+    letter-spacing: var(--title-textfield-textfield-letter-spacing);
+    line-height: var(--title-textfield-textfield-line-height);
+    white-space: nowrap;
+    font-style: var(--title-textfield-textfield-font-style);
+}
+
+.nav-link {
+    color: white;
+}
+
+.act {
+    background: rgba(248, 134, 58, 1);
+}
+
+.circl {
+    width: 33px;
+    height: 33px;
+    background-color: rgb(240, 145, 77);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 100px;
+    color: white
+}
+
+.frame-77 {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.ellipse {
+    background-color: var(--primary-500);
+    position: relative;
+    width: 13px;
+    height: 13px;
+    border-radius: 6.5px;
+}
+
+.text-wrapper-55 {
+    color: #000000;
+    font-size: var(--caption-caption2-font-size);
+    letter-spacing: var(--caption-caption2-letter-spacing);
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: var(--caption-caption2-font-family);
+    font-weight: var(--caption-caption2-font-weight);
+    line-height: var(--caption-caption2-line-height);
+    white-space: nowrap;
+    font-style: var(--caption-caption2-font-style);
+}
